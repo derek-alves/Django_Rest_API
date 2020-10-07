@@ -5,3 +5,5 @@ virtualenv study     -p /usr/bin/python3.7
 iniciar venve = . venvNome/bin/activate
 
 install django =  pip install django==2.2.16
+
+Executar django api = python manage.py runserver
